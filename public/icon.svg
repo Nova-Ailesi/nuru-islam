@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="50%" stop-color="#022c22" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="40%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background rounded squircle for maskable/app icon -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+
+  <!-- Subtle Islamic 8-Point Star Geometry in background -->
+  <g opacity="0.08" stroke="#ffffff" stroke-width="2" fill="none">
+    <rect x="136" y="136" width="240" height="240" rx="16" />
+    <rect x="136" y="136" width="240" height="240" rx="16" transform="rotate(45 256 256)" />
+  </g>
+
+  <!-- Central Mosque Dome & Minaret Silhouette -->
+  <path d="M196 340 H316 V270 C316 230 256 195 256 195 C256 195 196 230 196 270 Z" fill="url(#emeraldGrad)" opacity="0.95" />
+  <!-- Mosque Arch Door -->
+  <path d="M236 340 V295 C236 284 245 276 256 276 C267 276 276 284 276 295 V340 Z" fill="#022c22" />
+
+  <!-- Elegant Golden Crescent Moon & Star -->
+  <g filter="url(#softGlow)">
+    <!-- Crescent -->
+    <path d="M260 115 A 95 95 0 1 0 345 240 A 82 82 0 1 1 260 115 Z" fill="url(#goldGrad)" />
+    <!-- 8-Point Holy Star -->
+    <polygon points="310,135 315,147 328,147 318,155 322,167 310,160 298,167 302,155 292,147 305,147" fill="url(#goldGrad)" />
+  </g>
+
+  <!-- Quran Open Book base motif -->
+  <path d="M166 365 C210 350 250 365 256 370 C262 365 302 350 346 365 L340 376 C300 362 264 374 256 378 C248 374 212 362 172 376 Z" fill="url(#goldGrad)" />
+</svg>

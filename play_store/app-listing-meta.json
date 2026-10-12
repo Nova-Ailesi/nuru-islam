@@ -1,0 +1,22 @@
+{
+  "default_language": "tr-TR",
+  "app_details": {
+    "title": "Nur-u İslam: Namaz & İbadet",
+    "short_description": "Sesli namaz rehberi, ezan vakitleri, kıble pusulası, zikirmatik ve hatim takibi.",
+    "full_description": "Nur-u İslam; müminlerin günlük ibadetlerini huşu, kolaylık ve güvenle yerine getirebilmeleri için tasarlanmış kapsamlı ve muteber bir İslami yaşam rehberidir.\n\nÖNE ÇIKAN ÖZELLİKLER:\n\n🕌 1. DİYANET UYUMLU NAMAZ VAKİTLERİ & KERAHET TAKVİMİ\n• Konumunuza göre milisaniye hassasiyetinde hesaplanan 5 vakit namaz ve imsakiye takvimi.\n• Güneş, zeval ve akşam kerahet vakti uyarıları; İşrak, Duhâ (Kuşluk), Evvâbîn ve Teheccüd gibi nafile ibadet vakit sayaçları.\n• Her vakit için kişiselleştirilebilir ezan makamları (Sabâ, Rast, Hicaz, Uşşak, Segâh).\n\n🎙️ 2. CANLI İMAM İLE SESLİ NAMAZ KILDIRICI\n• Namaza yeni başlayanlar ve kıraatini tazelemek isteyenler için cemaatle kılınıyormuş gibi rekat rekat sesli yönlendirme.\n• Otomatik ekran kaydırma, rüku/secde intikalleri, erkek ve kadın fıkıh duruşları.\n• Cami akustiği ve ortam huşusu sağlayan özel ses motoru.\n\n🧭 3. HASSAS KIBLE PUSULASI & KÂBE MESAFESİ\n• Manyetik sensör destekli, Kâbe istikametine tam yöneldiğinizde hafif dokunsal (haptic) titreşimle onay veren canlı kıble pusulası.\n• Bulunduğunuz şehirden Mekke-i Mükerreme'ye olan kuş uçuşu mesafe göstergesi.\n\n📿 4. AKILLI ZİKİRMATİK & GÜNLÜK HEDEFLER\n• Tesbihat, salavat, istiğfar ve tevhid zikirleri için dokunsal geri bildirimli zikirmatik.\n• Kendi özel zikirlerinizi ekleme, 33/99/100 hedef sayaçları ve günlük hatırlatıcılar.\n\n📖 5. KUR'AN-I KERİM SÛRELERİ & HAFIZ TİLAVETİ\n• Namaz sûre ve duaları; Arapça hat sanatı, Türkçe okunuş, meal ve tecvid incelikleri.\n• Seçkin hafızlardan ayet ayet sesli tilavet ve dinleme imkanı.\n\n🤲 6. KİŞİSEL DUA DEFTERİM & ESTETİK DUA KARTLARI\n• 'Sabah Duaları', 'Gece Duaları' ve 'İstekler' gibi kategorilerle özel dualarınızı etiketleme ve filtreleme.\n• Dualarınızdan hat sanatı ve arka plan temalarıyla yüksek çözünürlüklü sosyal medya 'Dua Kartı' oluşturup indirme.\n\n📊 7. KAZA NAMAZI TAKİBİ & İBADET İSTATİSTİKLERİ\n• 5 vakit ve vitir kaza namazları ile kaza orucu sayacı.\n• Günlük namaz kılındı işaretlemeleri ve ibadet serisi (streak) takibi.\n\n🤝 8. 30 CÜZ HATM-İ ŞERİF & AİLE HATİM DAĞILIMI\n• Bireysel veya aile/arkadaş grubuyla ortaklaşa Kur'an-ı Kerim hatmi başlatma.\n• WhatsApp uyumlu cüz dağılım listesi oluşturma ve hatim duası.\n\n🛡️ 9. GÜVENİLİR DİYANET REHBERİ & FETVALAR\n• Din İşleri Yüksek Kurulu kaynaklı sıkça sorulan İslami fetvalar ve Alo 190 doğrudan arama kısayolu.\n\nÖnemli Güvenlik Taahhüdü:\nUygulamamız kullanıcı gizliliğine azami riayet eder. Konum ve cihaz verileriniz yalnızca ibadet vakitleri ve kıble hesaplaması için cihazınızda yerel işlenir; üçüncü taraflarla paylaşılmaz veya satılmaz.",
+    "category": "LIFESTYLE",
+    "content_rating": "EVERYONE (3+)",
+    "tags": [
+      "namaz vakitleri",
+      "ezan vakti",
+      "kıble pusulası",
+      "zikirmatik",
+      "namaz rehberi",
+      "kuran",
+      "dua",
+      "hatim",
+      "diyanet",
+      "kaza namazı"
+    ]
+  }
+}

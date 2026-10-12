@@ -1,0 +1,9 @@
+{
+  "name": "Nur-u İslam: Kapsamlı Namaz & İbadet Rehberi",
+  "description": "Sesli namaz ve abdest rehberi, konum tabanlı namaz vakitleri, kıble pusulası, zikirmatik, kaza takibi, Kur'an sureleri, dualar ve güvenilir Diyanet kaynakları.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

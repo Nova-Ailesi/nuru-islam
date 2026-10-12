@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bgGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="50%" stop-color="#022c22" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+    <linearGradient id="goldGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="40%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="emeraldGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+
+  <rect width="192" height="192" rx="42" fill="url(#bgGrad192)" />
+
+  <!-- Mosque Dome -->
+  <path d="M74 128 H118 V101 C118 86 96 73 96 73 C96 73 74 86 74 101 Z" fill="url(#emeraldGrad192)" opacity="0.95" />
+  <path d="M89 128 V111 C89 107 92 104 96 104 C100 104 103 107 103 111 V128 Z" fill="#022c22" />
+
+  <!-- Crescent & Star -->
+  <path d="M98 43 A 36 36 0 1 0 130 90 A 31 31 0 1 1 98 43 Z" fill="url(#goldGrad192)" />
+  <polygon points="116,51 118,55 123,55 119,58 121,63 116,60 112,63 113,58 109,55 114,55" fill="url(#goldGrad192)" />
+
+  <!-- Book Base -->
+  <path d="M62 138 C79 132 94 138 96 140 C98 138 113 132 130 138 L128 142 C113 137 99 141 96 143 C93 141 79 137 64 142 Z" fill="url(#goldGrad192)" />
+</svg>

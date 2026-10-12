@@ -1,0 +1,68 @@
+﻿{
+  "id": "/",
+  "name": "Nur-u İslam: Kapsamlı Namaz, İbadet & Yaşam Rehberi",
+  "short_name": "Nur-u İslam",
+  "description": "Sesli namaz kıldırıcı, Diyanet uyumlu namaz vakitleri, kıble pusulası, zikirmatik, kaza takibi ve Kur'an-ı Kerim hatim panosu.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "tr",
+  "theme_color": "#064e3b",
+  "background_color": "#0c0a09",
+  "categories": [
+    "lifestyle",
+    "education",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Namaz Kıl",
+      "short_name": "Namaz",
+      "description": "Cami İmamı ile Canlı Namaz Kıl",
+      "url": "/?tab=namazGuide",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Namaz Vakitleri",
+      "short_name": "Vakitler",
+      "description": "Günlük Namaz Vakitleri & Kerahet",
+      "url": "/?tab=prayerTimes",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Kıble Pusulası",
+      "short_name": "Kıble",
+      "description": "Kâbe İstikameti & Pusula",
+      "url": "/?tab=qibla",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hatm-i Şerif",
+      "short_name": "Hatim",
+      "description": "30 Cüz Kur'an Hatim Takibi",
+      "url": "/?tab=hatim",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

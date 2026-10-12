@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nur-u İslam</string>
+    <string name="title_activity_main">Nur-u İslam</string>
+    <string name="package_name">com.nuruislam.rehber</string>
+    <string name="custom_url_scheme">com.nuruislam.rehber</string>
+</resources>

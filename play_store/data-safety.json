@@ -1,0 +1,32 @@
+{
+  "data_safety_declaration": {
+    "data_collected": [
+      {
+        "data_type": "Approximate and Precise Location (Yaklaşık ve Kesin Konum)",
+        "purpose": "App Functionality (Uygulama İşlevselliği)",
+        "shared_with_third_parties": false,
+        "collected_or_processed_locally": "Sadece cihaz üzerinde anlık hesaplama için işlenir. Sunucuda depolanmaz, profil çıkarılmaz.",
+        "ephemeral": true,
+        "required": false,
+        "explanation": "Kullanıcının bulunduğu konuma göre Diyanet uyumlu 5 vakit namaz saatleri ve Kâbe kıble açısını hesaplamak için kullanılır."
+      },
+      {
+        "data_type": "Voice or Sound Recordings (Ses veya Ses Kayıtları)",
+        "purpose": "App Functionality (Uygulama İşlevselliği - Tecvid Pratiği)",
+        "shared_with_third_parties": false,
+        "collected_or_processed_locally": "Ses kayıtları yalnızca yerel SpeechRecognition / Web Audio API ile cihazda anlık işlenir. Hiçbir harici sunucuya iletilmez.",
+        "ephemeral": true,
+        "required": false,
+        "explanation": "Kullanıcının sure ve duaları okurken doğru telaffuz edip etmediğine dair geri bildirim üretmek için isteğe bağlı olarak kullanılır."
+      }
+    ],
+    "security_practices": {
+      "data_encrypted_in_transit": true,
+      "data_deletion_request_available": true,
+      "family_policy_compliant": true,
+      "target_age_group": "Everyone (Tüm Yaş Grupları)",
+      "ads_free": true,
+      "third_party_sdks": "Yok (AdMob/AdSense dahil reklam SDK'sı kullanılmaz). Google Fonts CDN ve yapay zeka soru-cevap API'si gizlilik politikasında açıklanmıştır."
+    }
+  }
+}
